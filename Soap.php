@@ -1,6 +1,6 @@
 <?php
 
-include ("lib/nusoap.php");
+include ("nusoap.php");
 
 class Soap
 {
